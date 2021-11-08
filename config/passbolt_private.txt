@@ -1,0 +1,7 @@
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+Version: OpenPGP.js v4.10.9
+Comment: https://openpgpjs.org
+
+Your passbolt account private key
+
+-----END PGP PRIVATE KEY BLOCK-----
